@@ -11,3 +11,4 @@
 - [2026-04-05T19:27:53Z] perf: optimize loop for better performance
 - [2026-04-05T11:16:19Z] feat: add helper utility function
 - [2026-04-05T12:44:06Z] style: apply consistent code formatting
+- [2026-04-05T13:52:22Z] test: add unit tests for core module
